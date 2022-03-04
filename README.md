@@ -1,6 +1,6 @@
 # <a href="https://github.com/Cyber1Punk/register-and-login-app">register-and-login-app</a>
 # About
-This is a register and login console app, created using C++.
+This is a register and login console app, created using C++. This project includes two files - main.cpp (main file), header.h (header file).
 
 # Features
 <ul>
